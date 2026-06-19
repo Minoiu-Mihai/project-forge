@@ -1,0 +1,83 @@
+{
+  "name": "engineering-system",
+  "description": "Complete engineering project structure for robotics, embedded AI, electronics, CAD, firmware, software and technical documentation.",
+  "directories": [
+    "docs",
+    "docs/images",
+    "docs/diagrams",
+
+    "software",
+    "software/edge_ai",
+    "software/edge_ai/src",
+    "software/edge_ai/tests",
+    "software/edge_ai/configs",
+    "software/edge_ai/models",
+    "software/edge_ai/scripts",
+
+    "software/communication",
+    "software/communication/protocols",
+    "software/communication/message_schemas",
+
+    "firmware",
+    "firmware/esp32",
+    "firmware/esp32/src",
+    "firmware/esp32/include",
+    "firmware/esp32/tests",
+
+    "hardware",
+    "hardware/proteus",
+    "hardware/proteus/exports",
+    "hardware/electronics",
+    "hardware/datasheets",
+    "hardware/bom",
+
+    "cad",
+    "cad/native",
+    "cad/native/catia",
+    "cad/native/freecad",
+    "cad/export",
+    "cad/export/step",
+    "cad/export/stl",
+    "cad/export/drawings",
+
+    "media",
+    "media/photos",
+    "media/renders",
+    "media/diagrams",
+    "media/videos",
+
+    "data",
+    "data/sample_images",
+    "data/annotations_example",
+
+    "tests",
+    "tests/vision",
+    "tests/electronics",
+    "tests/firmware",
+    "tests/integration",
+
+    "website",
+    "website/assets",
+    "website/assets/images",
+    "website/assets/videos"
+  ],
+  "files": [
+    "README.md",
+    "ROADMAP.md",
+    "CHANGELOG.md",
+    ".gitignore",
+
+    "docs/00_project_overview.md",
+    "docs/01_system_architecture.md",
+    "docs/02_requirements.md",
+    "docs/03_testing_validation.md",
+
+    "software/README.md",
+    "firmware/README.md",
+    "hardware/README.md",
+    "cad/README.md",
+    "media/README.md",
+    "data/README.md",
+    "website/README.md"
+  ]
+}
