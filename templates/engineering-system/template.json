@@ -61,23 +61,40 @@
     "website/assets/images",
     "website/assets/videos"
   ],
-  "files": [
+    "files": [
     "README.md",
     "ROADMAP.md",
     "CHANGELOG.md",
     ".gitignore",
+    "decisions.md",
 
     "docs/00_project_overview.md",
     "docs/01_system_architecture.md",
     "docs/02_requirements.md",
     "docs/03_testing_validation.md",
+    "docs/decisions.md",
 
     "software/README.md",
+    "software/decisions.md",
+
     "firmware/README.md",
+    "firmware/decisions.md",
+
     "hardware/README.md",
+    "hardware/decisions.md",
+
     "cad/README.md",
+    "cad/decisions.md",
+
     "media/README.md",
+    "media/decisions.md",
+
     "data/README.md",
-    "website/README.md"
-  ]
+    "data/decisions.md",
+
+    "tests/decisions.md",
+
+    "website/README.md",
+    "website/decisions.md"
+    ]
 }
